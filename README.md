@@ -21,6 +21,4 @@ You can start editing the page by modifying `components/Pages/index.tsx`. The pa
 <br/>
 Best regards.
 <br/>
-<img src="https://github.com/ArminKardan/utrialv2/blob/master/heart.png?raw=true" />
-<br/>
 <br/>
