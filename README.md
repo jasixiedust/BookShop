@@ -1,4 +1,4 @@
-This is a uservice project from Turing Research Team.
+This is a Uservice project developed by Me, a member of the Turing Research Team.
 <img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
 ## Getting Started
 
